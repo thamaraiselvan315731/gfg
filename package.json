@@ -9,11 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
+    "@hookform/resolvers": "^2.9.10",
     "@next/font": "13.0.7",
+    "chart.js": "^4.2.0",
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.7",
+    "fs": "^0.0.1-security",
     "next": "13.0.7",
+    "next-pwa": "^5.6.0",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.42.1",
+    "recharts": "^2.3.2",
+    "rxjs": "^7.8.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
   }
 }
